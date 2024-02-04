@@ -6,3 +6,4 @@
 2. docker-compose up -d --build
 3. docker-compose exec php bash
 4. go to http://localhost:8080/ 
+5. regenerate app secret and clear cache
